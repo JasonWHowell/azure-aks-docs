@@ -150,9 +150,6 @@
       "feedback_help_link_url": {
         "articles/aks/**/*": "https://learn.microsoft.com/answers/tags/200/azure-kubernetes-service/"
       },
-      "feedback_help_link_type": {
-        "**/*": "get-help-at-qna"
-      },
       "open_source_feedback_contributorGuideUrl": {
         "articles/aks/**/*": "https://learn.microsoft.com/contribute/content/"
       },
